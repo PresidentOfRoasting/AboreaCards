@@ -1,0 +1,245 @@
+Skeld;Abenteurer;0;1;0;1
+Zeirad;Duellant;0;1;0;1
+Kettenmagier;Kampfmagier;0;1;0;1
+Hayden;Schamane;Jäger;1;0;1
+Blackfire;Duellant;Pirat/Jäger;1;0;1
+Kevstar;Krieger;Hoamat/Jäger;1;0;0
+Gorgin;Kaufmann;0;1;0;1
+Ravastine;Dieb;Jäger;1;0;1
+Link;Kapitän;Jäger;1;0;1
+Rissa;Waldläufer;0;1;0;1
+Rissa`s Wolf;Begleiter;0;0;0;0
+Denados;Kaufmann;Homat;1;1;1
+Lyrissa;Paladin;weiße Rose;1;0;1
+erwachte Lyrissa;Paladin;weiße Rose;0;0;0
+Cai;Handwerker;Hoamat;1;0;1
+Dirah;Zauberer;Hoamat;1;0;1
+Eltaor;Priester;0;1;0;1
+Ziam;Kampfmönch;Xhara;1;0;1
+Panzernashorn;Vewandlung;0;0;0;0
+großer Wolf;Verwandlung;0;0;0;0
+großer Bär;Verwandlung;0;0;0;0
+Ravastine´s Rabe;Begleiter;0;0;0;0
+Bert;Barde;0;1;1;1
+Jägerherold;Barde;Jäger;1;0;1
+Ulutrix;Zauberer;0;1;1;1
+Samuel;Dieb;0;1;1;1
+Shared;?;Jäger;0;1;1
+Hexenjäger;Vollstrecker;Jäger;1;1;1
+Schemenhafter Samuel;Dieb;0;0;1;0
+Stealus;Dieb;Hoamat;0;1;0
+Pekilas;Waldläufer;Hoamat;0;1;0
+Gloin;Krieger;Hoamat;0;1;0
+Barry;Begleiter;0;0;0;0
+Gorn;Druide;Hoamat;0;1;0
+Edegil;zauberer;0;0;1;0
+Borim;Krieger;Hoamat;0;1;0
+Grimmling;0;0;0;0;0
+verdächtige Hexe;Hexe;0;1;1;1
+Paladin;Paladin;weiße Rose;1;0;1
+Knöchelschlitzer;Dieb;0;1;0;1
+Zwergenwirt;Kaufmann;0;1;0;1
+Minenarbeiter;Handwerker;0;1;0;1
+Bodyguard;Krieger;0;1;0;1
+Priester;Priester;0;1;0;1
+bekannter Abenteurer;Abenteurer;0;1;1;1
+Sir Mirin;Krieger;0;1;1;1
+Elenore;Dieb;0;1;1;1
+Halzelia;zauberer;0;1;1;1
+Hazelia;zauberer;0;1;1;1
+Gaukler;Dieb;0;1;1;1
+Kavallerist;Reiter;0;1;0;1
+Orakel;Hexe;0;1;1;1
+Veteran;Krieger;0;1;1;1
+Rathauswächter;Begleiter;0;0;0;0
+Suderlandritter;Krieger;0;1;1;1
+zwielichtiger Zauberer;Hexe;0;1;0;1
+alter Barde;Barde;0;1;1;1
+Elbenbarde;Barde;0;1;1;1
+Zwergenbarde;Barde;0;1;1;1
+Skelett;Begleiter;0;0;0;0
+Untergrund Zauberin;Hexe;0;1;1;1
+Elitesöldner;Waldläufer;0;1;0;1
+Abenteurer Mensch;Abenteurer;0;1;1;1
+Abenteurer Elb;Abenteurer;0;1;1;1
+Abenteurer Zwerg;Abenteurer;0;1;1;1
+Schamane;Schamane;0;1;1;1
+Zauberer;Zauberer;0;1;1;1
+begabter Zauberer;Zauberer;0;1;1;1
+Gauner;Dieb;0;1;0;1
+Matrose;Matrose/Kapitän;0;1;1;1
+Schmied;Handwerker;0;1;1;1
+Hauptmann;Krieger;0;1;1;1
+Elbengardist;Krieger;0;1;0;1
+Alchemist;Kaufmann;0;1;1;1
+Soldat;Krieger;0;1;1;1
+Assassine;Dieb;0;1;0;1
+Waldläufer;Waldläufer;0;1;1;1
+Bogenschütze;Waldläufer;0;1;0;1
+wandernder Duellant;Duellant;0;1;1;1
+Vandalenmahler;Kaufmann;0;1;1;1
+Mann vieler Talente;Krieger,Barde,Waldläufer,Dieb,Abenteurer;0;1;0;1
+Kampfmönch;Kampfmönch;0;1;0;1
+wütender Bauer;Handwerker;0;1;0;1
+vergrämte Prinzessin;Kaufmann;0;0;1;1
+Treuer Diener Jace;Kaufmann;0;0;0;0
+Treuer Diener Jörg;Kaufmann;0;0;0;0
+Teurer Diener Joachim;Kaufmann;0;0;0;0
+Treuster Diener Joe;Kaufmann;0;0;0;0
+Zurgha´s Wache;Krieger;Feind;0;0;0
+Zurgha;Krieger;Boss;0;0;0
+Orksoldat;Krieger;Feind;0;0;0
+Wargreiter;Reiter;Feind;0;0;0
+Orkhauptmann;Krieger;Feind;0;0;0
+Orkattentäter;Dieb;Feind;0;0;0
+Schwarzer Ork;Krieger;Feind;0;0;0
+Standartenträger;Barde;Feind;0;0;0
+Orkbarde;Barde;Feind;0;0;0
+Orkmedizinmann;Priester ;Feind;0;0;0
+Ärgerlicher Zwerg;Dieb;Feind;0;0;0
+dreckiger Ork;Dieb;Feind;0;0;0
+Esugen;Reiter;Nomade;0;0;0
+Masugd;Kaufmann;Wüstenvolk;0;0;0
+Ergene;Kaufmann;Wüstenvolk;1;1;1
+Neshim;Krieger;Nomade;1;0;1
+Eram;Dieb;Wüstenvolk;1;1;1
+Osol;Reiter;Nomade;1;1;1
+Shani;zauberer;Nomade;1;1;1
+Tarn;?;Xhara;1;1;1
+Tatar;Schamane;Nomade;1;1;1
+Tatar´s Golem;Begleiter;0;0;0;0
+Sklavenhändler;Kaufmann;Wüstenvolk;1;1;1
+verdeckte Instruktorin;Abenteurer;Jäger;1;1;1
+Nomadenkrieger;Krieger;Nomade;1;1;1
+Wüstenkrieger;Krieger;Wüstenvolk;1;1;1
+Sklave ;Handwerker;0;1;1;1
+wandernder Nomade;Abenteurer;Nomade;1;0;1
+Wüstenchampion;Krieger;Feind;0;0;0
+Alter Herrscher;Duellant;Feind;0;0;0
+Wahrer Assassine;Dieb;Wüstenvolk;1;1;1
+älterer Golem;0;Feind;0;0;0
+Zorn der Wüste;0;Feind;0;0;0
+Skorpionwächter;Krieger;Feind;0;0;0
+Treibsandspinne;0;Feind;0;0;0
+Mumie;0;Feind;0;0;0
+älter Mumie;0;Feind;0;0;0
+wüstengeist;/;0;0;1;0
+Balgras;Abenteurer;0;1;1;1
+Ren;Schamane;0;1;1;1
+Rakash;Schamane;0;1;0;1
+Felrug;Zauberer;Gnom;1;1;1
+Relys;?;Gnom;0;0;0
+Zillin;Kapitän;Gnom;0;0;0
+Salji;?;Gnom;0;0;0
+Kobold;Dieb;Feind;0;0;0
+Dschungelmensch;Waldläufer;0;1;1;1
+Dschungelvogel;Begleiter;0;0;0;0
+Fion;Abenteurer;0;1;1;1
+Sylvaril;Waldläufer;0;1;1;1
+Tasaria;Hexe;0;0;1;1
+Gnomschiff;schiff;0;0;0;0
+On`jo;Handwerker;0;1;1;1
+Ren (Vogel);Verwandlung;0;0;0;0
+Ren(großer Vogel);Verwandlung;0;0;0;0
+Schlangengott;Legende;Feind;0;0;0
+Tig-Rex;0;Feind;0;0;0
+Dschungelspinne;0;Feind;0;0;0
+Troll der dunklen Schlange;Krieger;Feind;0;0;0
+Skelett;Begleiter;0;0;0;0
+Riesiger Frosch;0;Feind;0;0;0
+Shaku Raku;Berserker;Feind;0;0;0
+Kjellfried;Kreiger;Wikinger;1;1;1
+Eldrid;Krieger;Wikinger;1;1;1
+Njord;Abenteurer;Wikinger;1;1;1
+Vigolfyr;Duellant;Wikinger;1;1;1
+Walküre;Krieger;Wikinger;0;1;0
+Ragnvald;Kapitän;Wikinger;1;1;1
+Asgrim;Reiter;Wikinger;0;1;0
+Whutrig;Berserker;Wikinger;1;1;1
+Ovrouk;Handwerker;0;0;1;1
+Eiskönigin;Hexe;Boss;0;0;0
+Der Schattenpriester;Priester;Feind;0;0;0
+Eisreiter;Reiter;Feind;0;0;0
+Wikingerberserker;Berserker;Wikinger;1;1;1
+Wikingerkrieger;Krieger;Wikinger;1;1;1
+Eisgeist;0;Feind;0;0;0
+Yeti;0;Feind;0;0;0
+harscher Bergmann;Handwerker;0;1;1;1
+Eiselementar;0;Feind;0;0;0
+Wikingermedizinmann;Priester;Wikinger;1;1;1
+Runenmagier;Zauberer;Wikinger;1;1;1
+Sigrtyrja;?;0;0;1;0
+älterer Yeti;0;Feind;0;0;0
+Wikingergeist;0;Feind;0;0;0
+Eisriese;0;Feind;0;0;0
+Säbelzahntiger;Verwandlung;Feind;0;0;0
+Eiskrabbe;0;Feind;0;0;0
+Drue;Krieger;Xhara;1;1;1
+Kaz;Berserker;Mensch/Vampir;1;1;1
+Freth;Waldläufer;0;1;1;1
+Blandia;Krieger;0;1;1;1
+Drasha;Kampfmagier;0;0;1;0
+Rayn;Formwandler;0;1;1;1
+unbekannter Jäger;Abenteurer;Jäger;1;1;1
+Vampirjäger;Krieger;0;1;1;1
+Kultist;0;Feind;0;0;0
+Werwold(Tag=;Berserker;0;1;1;1
+Werwolf (Nacht);Berserker;0;1;1;1
+Selesh;Duellant;Boss;0;0;0
+Vlad;Legende;Boss;0;0;0
+Rotklinge;Krieger;Feind;0;0;0
+Vampirkrieger;Krieger;Feind;0;0;0
+Vampirhauptmann;Krieger;Feind;0;0;0
+Nebelrufer;Schamane;Feind;0;0;0
+Vampiradelige;Kaufmann;Feind;0;0;0
+Vampirsöldner;Krieger;Feind;0;0;0
+Duergar;Berserker ;Feind;0;0;0
+Lothaire;Barde;Feind;0;0;0
+Nebelreiter;Reiter ;Feind;0;0;0
+Vampirbeschwörer;Hexe;Feind;0;0;0
+Vampirhydra;0;Feind;0;0;0
+Garus;Beserker;Boss;0;0;0
+Vampirische Abscheulichkeit;Berserker;Feind;0;0;0
+Davon;Hexe;Feind;0;0;0
+Ozul;Kaufmann;Feind;0;0;0
+Nessa;Kaufmann;Feind;0;0;0
+Banshee;0;Feind;0;0;0
+Alric;Kaufmann;Feind;0;0;0
+Florin;Kaufmann;Feind;0;0;0
+Flickwerk;0;Feind;0;0;0
+gräuliches Flickwerk;0;Feind;0;0;0
+Professor Frank;0;Feind;0;0;0
+Reinblut;Zauberer;Feind;0;0;0
+Vohna;Dieb;Jäger;0;1;1
+Villiendyr;Paladin;weiße Rose;0;1;0
+Furen;Krieger;Jäger;0;1;0
+Eseh;Zauberer;Jäger;0;1;0
+Erion;/;0;0;0;0
+Kaelet;Priester;weiße Rose;0;1;1
+Expeditionär;Krieger;0;1;1;1
+Späher;Dieb;0;1;1;1
+Shalia;Abenteurer;0;0;1;1
+Dunkler Mensch;0;Feind;0;0;0
+Ihor;0;Feind;0;0;0
+Vira;Hexe;Feind;0;0;0
+Clare;Zauberer;0;0;1;0
+Höhlentroll;0;Feind;0;0;0
+Drachling;0;Feind;0;0;0
+Hyra;0;Feind;0;0;0
+unbekanntes Wesen;0;Feind;0;0;0
+Mutierter Zyklop;0;Feind;0;0;0
+Xardas;Zauberer;0;0;0;0
+Morgan;Schamane;0;0;1;0
+großer Panther;Verwandlung;0;0;0;0
+riesiger Panther;Verwandlung;0;0;0;0
+Hyron;Legende;Boss;0;0;0
+Schwarzer Hauptmann;0;Feind;0;0;0
+Seeschlange;Begleiter;0;0;0;0
+Raptor;0;Feind;0;0;0
+Sandwurm;Begleiter;0;0;0;0
+Silberwolf;Begleiter;0;0;0;0
+Golem;Begleiter;Feind;0;0;0
+Wolf;Begleiter/Verwandlung;0;0;0;0
+großer Wolf;Begleiter/Verwandlung;0;0;0;0
+großer Bär;Begleiter/Verwandlung;0;0;0;0
+großer Rabe;Begleiter;0;0;0;0

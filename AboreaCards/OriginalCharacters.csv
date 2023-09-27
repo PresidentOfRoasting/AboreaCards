@@ -1,0 +1,136 @@
+Elbenabenteurer;Elb;Abenteurer;Suderland/Trion;5;1;1;6;false;false;false;false;false;false;false;False;Chance nach jedem Kampf 5 GF zu erhalten 50%. Nur die Erfahrungen, nicht die Herkunft.;1
+Menschenabenteurer;Mensch;Abenteurer;Suderland/Trion;4;1;1;5;false;false;false;false;false;false;false;False;Chance nach jedem Kampf 5 GF zuerhalten 50%. Worauf hat er sich hier eingelassen?;2
+Zwergenabenteurer;Zwerg;Abenteurer;Suderland/Trion;4;1;1;7;false;false;false;false;false;false;false;False;Chance nach jedem Kampf 7 GF zu erhalten 50%. Das einzige was der Gier der Zwerge gleichkommt ist ihre Hartnäckigkeit.;1
+Alchemist;Zwerg;Alchemist;Suderland/Trion;2;0;1;4;false;false;false;false;false;false;false;False;Nimm dir vor jedem Kampf einzufälliges Elixier.;2
+Alter Barde;Mensch;Barde;Suderland/Trion;1;0;1;6;false;false;false;false;false;false;false;False;Dein gesamtes Team erhält +2 Leben. Und erhöhe jeden Würfelwurf außer 1 um 1.;2
+Alter Herrscher;älteres Wesen;Legende;Wüste;12;2;2;30;false;false;false;true;false;false;false;False;;1
+älterer Yeti;Yeti;Berserker;Eisland;16;2;2;21;false;false;false;false;false;false;false;False;;2
+Assassine;Mensch;Dieb;Suderland/Trion;6;2;0;4;false;false;false;false;false;false;false;False;Wen wird er wohl als nächstes töten?;2
+Balgras;Zwerg;Abenteurer;Dschungel;6;0;2;9;false;false;true;false;false;false;false;False;Zeige diese Karte offen her.Du gehst vor dem Endkampf auf einzusätzliches Abenteuer. 50% Chance 12 GF nach einem Kampf zuerhalten.;1
+Elbenbarde;Elb;Barde;Suderland/Trion;2;1;0;5;false;false;false;false;false;false;false;False;Dein Gesamtes Team erhält +1 Initiative und erhöhe jeden Würfelwurf außer 1 um 1.;1
+Zwergenbarde;Zwerg;Barde;Suderland/Trion;2;0;1;6;false;false;false;false;false;false;false;False;Dein Gesamtes Team erhält +1 Rüstung und erhöhe jeden Würfelwurf außer1 Um1;2
+Bekannter Abenteurer;Mensch;Abenteurer;Suderland/Trion;6;1;1;7;false;false;false;false;false;false;false;False;Erhält +3/+3 bei 2 Barden in der Grp. „Jack ist allen Abenteurern wohl bekannt, so sehr das man ihn fast überall trifft. Groß,klein,weiß,schwarz,.. die Legende.;1
+Bert;Mensch;Barde;Suderland/Trion;2;1;0;5;false;false;true;false;false;false;false;False;Verleiht dem gesamten Team +1/+2 „Ich war auf meinem Weg zum Brunnen, als mir ein Mann mit einem singenden Sack entgegen kam. “KurioseBegegnung;1
+Schwarz Flamme;Mensch;Duellant;Suderland/Trion;6;4;1;9;true;true;true;false;false;false;false;False;Verursacht 1 mal im Kampf zusätzlich 5 Feuerschaden(Spielerentscheidet).;1
+Blandia;Mensch;Krieger;Zorak;6;1;2;11;false;false;true;false;false;false;false;False;Verursacht doppelten Schaden gegen Vampire.;1
+Bodyguard;Mensch;Krieger;Suderland/Trion;3;0;2;9;false;false;false;false;false;false;false;False;Wenn der linke Charakter angegriffen wird, wird statt dessen der Bodyguard angegriffen.;1
+Borim;Zwerg;Krieger;Suderland/Trion;9;0;3;11;false;false;true;false;false;false;true;False;Erhält für den nächsten Kampf +1/+1 wenn du den vorigen Kampf gewonnen hast.;1
+Cai;Mensch;Fischer;Suderland/Trion;3;2;0;6;false;true;true;false;false;false;false;False;Geht nach jedem Kampf fischen wirf einen W10: 1 Fehlschlag 2-9 Fisch (W10 x 4GF) 10 Riesenfisch (70GF);1
+Clare;Mensch;Zauberer;Dunkler Kontinent;10;2;0;11;false;false;true;false;false;false;false;False;Verursacht magischen Schaden im Angriff und 0 in der Verteidigung, jedoch 50% Chance eine Illusion zu treffen. W10 vor jedem K. 1 Sie verschwindet..;1
+Darsha;Elb;Schamane;Zorak;7;1;1;9;false;false;false;false;false;false;false;False;Wurde gebissen nimm dich in Acht W10 vor jeder Abenteuerrunde 1 sie Verwandelt sich. Nach 2 weiteren –weg 50% Chance 3 Feuerschaden zumachen;1
+Denados;Mensch;Bürgermeister;Suderland/Trion;3;0;0;6;false;true;true;false;true;false;false;False;Startet mit einem 3/6 Rathauswächter. Verleiht allen Verbündeten +2/+1. „Welche politischen Ziele verfolgt wohl der Bürgermeister von Hoamat?;1
+Der Schattenpriester;Mensch;Priester;Eisland;7;1;1;14;false;false;false;true;false;false;false;False;Hat die Chance von 30% die Kontrolle über einen Gegner zu übernehmen.;1
+Dirah;Mensch;Feuermagier;Suderland/Trion;5;1;0;6;false;true;true;false;false;false;false;False;Das gesamte Team verursacht zusätzlich +2 Feuerschaden im Angriff.;1
+dreckiger Ork;Ork;Krieger;Suderland/Trion;3;0;0;3;false;false;false;true;false;false;false;False;;4
+Drue;Mensch;Krieger;Zorak;9;4;2;14;false;false;true;false;false;false;false;False;Erhöhe den Erfolg von Abenteuern oder Aktionen in denen du sprinten musst um 2.;1
+Duergar;Zwerg;Krieger;Zorak;8;1;2;15;false;false;false;true;false;false;false;False;In der ersten Runde beißt der Duergar seinen Gegner für W6 Schaden und 20% für Vergiftung.(-1Tp-1TpxKampfrunde);1
+Edegil;Elb;Zauberer;Dschungel;4;2;0;7;false;false;true;false;false;false;true;False;Verleiht allen Verbündeten +1/+1 und zusätzlich +2/+2 wenn du rauchbares Kraut besitzt.;1
+Eiskönigin;Mensch;Hexe;Eisland;11;2;1;27;false;false;false;true;false;false;false;False;Verursacht Magischen Schaden Friert nach der ersten Runde 3 Charaktere ein.;1
+Eisreiter;Untoter;Reiter;Eisland;11;2;3;20;false;false;false;true;false;false;false;False;Friert zu Beginn 1nen Gegner ein(Angriff wird reduziert auf 0) für 1ne Runde.;1
+Eisrieser;Riese;Barbar;Eisland;14;0;2;25;false;false;false;true;false;false;false;False;;2
+Eisyeti;Yeti;Berserker;Eisland;10;2;2;16;false;false;false;false;false;false;false;False;;1
+Elbengardist;Elb;Gardist;Suderland/Trion;6;2;1;8;false;false;false;false;false;false;false;False;Erhöht die TP des rechten Gruppenmitglieds um 2.;2
+Elenore;Halbelb;Dieb;Suderland/Trion;6;2;0;9;false;false;true;false;false;false;false;False;Erhält am Ende jeder Etappe +1 Angriff. Stealus`s Drang auf Kräutersuche zu gehen ist jetzt nur noch bei 1. Bei 2-10 kämpft dieser.;1
+Elite Söldner;Elb;Abenteurer;Suderland/Trion;8;3;1;10;false;false;false;false;false;false;false;False;Du verlierst W6 GF pro Runde. Entferne diese Karte wenn du diesen Betrag nicht mehr zahlen kannst oder nicht bezahlst.;2
+Eltaor;Elb;Priester;Suderland/Trion;4;1;1;11;false;true;true;false;false;false;false;False;Im Kampf Runde 1 erhält +3 Angriff Runde 2 heilt einen zuf. Char. um 9 Runde 3 +2 Rüstung;1
+Eram;Mensch;Dieb;Wüste;9;3;1;8;false;false;true;false;false;false;false;False;Erhält nach 15 Abenteuern eine Raubzugkarte.;1
+Ergene;Mensch;Wirt;Wüste;1;1;0;6;false;false;true;false;false;false;false;False;Verleiht den benachbarten Verbündeten +2/+2 und +2 Initiative.;1
+Erion;Griffin;Schrecken;Dunkler Kontinent;7;3;1;11;false;false;true;false;false;false;false;False;Verleiht Furen und Eseh +3/+3.;1
+Erwachte Lyrissa;Mensch;Paladin;Suderland/Trion;12;4;2;15;false;true;true;false;false;false;false;False;Lyrissa ignoriert die gegnerische Rüstung und ist immun gegen Magie.;1
+Expeditionär;Mensch;Expeditionär;Dunkler Kontinent;7;2;2;11;false;false;false;false;false;false;false;False;Als die Orks zum Großteil aus Trion zurückgedrängt worden sind, ist eine große Expedition auf den dunklen Kontinent gestartet worden.;3
+Felrug;Gnom;Zauberer;Dschungel;2;0;0;6;false;false;true;false;false;false;false;False;;1
+Fion;Mensch;Vagabund;Dschungel;4;2;1;7;false;false;true;false;false;false;false;False;Startet mit Fion's Spitzhacke. Erhöht den Erfolg von Abenteuern in einer Höhle um 2.;1
+Freth;Mensch;Waldläufer;Zorak;6;2;1;8;false;false;true;false;true;false;false;False;+5 Schaden gegen Vampire im Angriff Startet mit einem 3/3Wolf;1
+Furen;Mensch;Drachenjäger;Dunkler Kontinent;10;-2;2;14;true;false;true;false;false;false;false;False;Trägt eine unbek. Plattenrüstung und ein unbek. Großschwert.;1
+Gauner;Mensch;Dieb;Wüste;4;3;0;3;false;false;false;false;false;false;false;False;Stiehlt seinem Gegner 20 GF nach einem Kampf. Ein gemeiner Straßengauner der Goldfalken verschwinden lässt.;3
+Gloin;Zwerg;Krieger;Suderland/Trion;9;0;2;11;false;false;true;false;false;false;false;False;Haudrauf: deine Schläge haben eine Chance von 20% den Gegner wegzuschleudern. Dieser erhält zusätz. W10 S. und ist die nächste R. gestunnt.;1
+Gorgin;Zwerg;Wirt;Suderland/Trion;4;0;1;10;false;true;true;false;false;false;false;False;Vor jedem Zug W10(QualitätSpeise): 1Fehlschlag 2-5 +0/+2 Team 6-10 +1/+3 Team 18 +1/+4 und 3 TP Reg. pro Runde;1
+Gorn;Mensch;Schamane;Dschungel;5;2;1;7;false;false;true;false;true;false;false;False;Statt anzugreifen setzt Gorn lebendige Erde ein.(Schaden=Angriff–Rüstung) 80% das Gorn mit Barry, einem 5/5 Bären startet.;1
+Grimmling;Zwerg;Krieger;Dschungel;6;-1;2;7;false;false;true;false;false;false;false;False;Verleiht Borim +2/+2. W10 jedes Mal wenn Grimmling angreift: 1-5 Er verfehlt, früher war alles besser. 6-10 Grimmling verursacht Schaden.;1
+Hammerschwinger;Zwerg;Krieger;Eisland;6;0;2;10;false;false;false;false;false;false;false;False;Trägt eine Zwergenrüstung(+2R). BeiAktionenbeidenengegrabenodergeschürftwirderhältstdu+W6zudeinemWürfelwurf.;1
+Hauptmann;Mensch;Krieger;Suderland/Trion;6;2;1;7;false;false;false;false;false;false;false;False;Verleiht allen Menschen+1/+1.;2
+Hayden;Mensch;Schamane;Suderland/Trion;3;2;1;6;true;true;true;false;false;false;false;False;Verwandelt sich zu Beginn in W10: 1-4 großerWolf(7/8) 5-9 großerBär(10/15) 10 Panzernashorn(16/16+2R);1
+Hexenjäger;Mensch;Vollstrecker;Suderland/Trion;12;0;2;14;true;false;true;false;false;false;false;False;Immun gegen Hexen. Vernichtet Hexen sofort im Kampf. Kann mit keiner Hexe in der Gruppe sein,entscheide wenn du behältst.;1
+Jägerherold;Mensch;Barde;Suderland/Trion;2;1;0;9;true;false;true;false;false;false;false;False;Verleiht allen Jägern im Team +4/+4. „Ein Zeichen der Hoffnung und seine Stimme wohl gehört. Wohin wird die nächste Expedition nur gehen?“;1
+Kampfmönch;Mensch;Kampfmönch;Suderland/Trion;6;2;1;6;false;false;false;false;false;false;false;False;;2
+Kettenmagier;Halbelb;Kampfmagier;Suderland/Trion;6;3;0;9;true;true;true;false;false;false;false;False;Stunt seinen Gegner für 1ne Runde und verleiht diesem -3/0.;1
+Kevstar;Mensch;Krieger;Suderland/Trion;4;-2;2;14;true;true;true;false;false;false;false;False;Fügt in der Verteidigung den gesamten Schaden zu. Trägt eine schwere Plattenrüstung(+3R);1
+Kjellfird;Mensch;Krieger;Eisland;5;2;2;10;false;false;true;false;false;false;false;False;Startet mit einem Rundschild. Führt zusätzlich einen Schildschlag aus der W6 Schaden verursacht und den Gegner zu 20% stunnt.;1
+Knöchelschlitzer;Hobbit;Dieb;Suderland/Trion;4;3;2;6;false;false;false;false;false;false;false;False;Wenn der Knöchelschlitzer einem Gegner Schaden zufügt, würfle einen W10:1-3 Fehlschlag 4-10 Charakter für 1ne Runde gestunt.;1
+Link;Mensch;Kapitän;Suderland/Trion;7;2;2;13;true;true;true;false;false;false;false;False;Regeneriert 4 TP am Ende einer Runde. Würfle nach jeder Etappe einen W10: 1-9 nichts 10 Nimm dir eine Schatzkarte. ;1
+Lothaire;Vampir;Barde;Zorak;5;3;0;10;false;false;false;true;false;false;false;False;Betört einen zufälligen Gegner zu Beginn des Kampfes. 30% Chance diesen Zustand aufzuheben.;1
+Lyrissa;Mensch;Paladin;Suderland/Trion;6;2;2;10;false;true;true;false;false;false;false;False;Verursacht +1 Magieschaden. Wenn Lyrissa der letzte Charakter ist, den du besitzt und ein Chararakter gestorben ist, wende diese Karte.;1
+Mann vieler Talente;Mensch;Generalist;Suderland/Trion;5;1;1;5;false;false;false;false;false;false;false;False;Der Mann vieler Talente ist ein Krieger, Barde, Waldläufer, Dieb und Abenteurer. „Er ist der passende Mann für diesen Auftrag, passt aber auch für diesen,..“;1
+Matrose;Mensch;Matrose;Suderland/Trion;3;1;0;4;false;false;false;false;false;false;false;False;Erhält +1/+1 wenn du einen Kapitän in der Gruppe hast. „Er war der beste Mann bis der Rum aus war.“;7
+Minenarbeiter;Zwerg;Arbeiter;Suderland/Trion;3;1;0;6;false;false;false;false;false;false;false;False;Jedesmal wenn der Minenarbeiter angreift würfle einen W10:1-5Fehlschlag 5-10Golderz(30GF);1
+Morgan;Halbelb;Schamane;Dunkler Kontinent;8;3;0;14;false;false;false;true;false;false;false;False;Verwandelt sich in W10: 1-5 großer Panther(17/17) 6-10 riesigerPanther(20/20);1
+Nebelreiter;Vampir;Reiter;Zorak;10;2;3;19;false;false;false;true;false;false;false;False;Ist von Nebel umhüllt und zieht einen Nebelstreifen hinter ihm her.;1
+Nebelrufer;Vampir;Schamane;Zorak;6;2;0;8;false;false;false;true;false;false;false;False;Vampire erhalten 1weniger Schaden.;1
+Neshim;Mensch;Abenteurer;Wüste;7;1;1;9;false;false;true;false;false;false;false;False;Würfel einen W10 vor jedem Kampf 1-8 nichts passiert 9-10 Findet eine Rüstung oder einSchwert (Spielerentscheidet).;1
+Njord;Mensch;Abenteurer;Eisland;8;1;2;12;false;false;true;false;false;false;false;False;Startet mit einem Rundschild. Würfle vor jedem Abenteuer einen W10: 1-8/ 9-10 Nimm dir eine Runentafel.;1
+Nomade;Mensch;Kaufmann;Wüste;2;1;0;5;false;false;false;false;false;false;false;False;Ein einfacher Wanderer;1
+Normadenkrieger;Mensch;Krieger;Wüste;5;2;1;6;false;false;false;false;false;true;false;False;Erhält +0/+1 für jedes Abenteuer in der Wüste in dem er in der Grp war. „Warum reduziert man seine Heimat auf einen kleinen Landstrich?“;3
+Orakel;Mensch;Hexe;Suderland/Trion;1;0;0;4;false;false;false;false;false;false;false;False;Greift nicht an. Wähle vor jedem W10Würfelwurf eine Zahl zwischen 1-9, wenn du diesen würfelst ist sie automatisch eine 10.;2
+Osol;Mensch;Reiter;Wüste;6;2;1;9;false;false;true;false;true;false;false;False;Aus der Wüste stellt er sich vor als Reiter des Sandes, wo ist jedoch sein Reittier? Würfel einen W10 vor jedem K.: 1-19 nichts 20+ 11/11 Sandwurm ;1
+Paladin;Mensch;Paladin;Suderland/Trion;7;1;3;10;false;false;false;false;false;false;false;False;Erhält +1 Rüstung wenn du einen Priester in der Gruppe hast. „Selbst du, empfange den Segen Rondras“;2
+Priester 1;Mensch;Priester;Suderland/Trion;0;1;1;6;false;false;false;false;false;false;false;False;Statt anzugreifen heilt der Priester einen Charakter um W10: Verbündete Paladine erhalten +1/+2. „Nur ein Kratzer, das wird schon wieder“;4
+Priester 2;Mensch;Priester;Suderland/Trion;1;1;0;6;false;false;false;false;false;false;false;False;Heilt jede Runde 1 Teammitglied einen Charakter um W10.;4
+Prof.Frank;Gnom;Nekromant;Zorak;2;2;0;7;false;false;false;true;true;false;false;False;Beschwört ein Flickwerk und ist Immun gegen Schaden bis dieses zerstört ist. Setzt 1 mal aus dem alt. eingräuliches Flickwerk ein neues zusammen.;1
+Ragnvald;Mensch;Kapitän;Eisland;9;2;2;13;false;false;true;false;false;false;false;False;ErhältfürjedenWikingerimTeam+1/+1gibtjedemWikinger+1/1.;1
+Rakash;Troll;Schamane;Dschungel;4;1;0;6;false;false;true;false;false;false;false;False;Hat die Chance von 50% einen zufälligen Gegner in eine Trance zu versetzen die ihn für 1ne Runde stunt.;1
+Ravastine;Mensch;Dieb;Suderland/Trion;7;4;2;8;true;true;true;false;true;false;false;False;Startet mit 2 Ravastine's Raben. Doppelangriff „Der Tag bringt gute Beute,das kommt dir bekannt vor, dieser Vogel auch?“;1
+Ren;Mensch;Schamane;Dschungel;4;3;0;8;false;false;true;false;false;false;false;False;Würfel einen W10:1-5verwandeltsichineinen10/8Vogel.6-10verwandeltsichineinen12/10Vogel.;1
+Riesiger Frosch;Frosch;Schrecken;Dschungel;10;0;2;20;false;false;false;true;false;false;false;False;Verursacht +2 Säureschaden 30% Chance das eine Waffe oder Rüstung des angegriffenen Charakters zerstört wird.;1
+Rissa;Mensch;Waldläufer;Suderland/Trion;4;3;0;7;false;true;true;false;true;false;false;False;Startet mit Rissa's Wolf.;1
+Rotklinge;Vampir;Krieger;Zorak;7;2;2;10;false;false;false;true;false;false;false;False;Erhält+1/+1proRunde.;2
+Runenmagier;Mensch;Zauberer;Eisland;3;1;1;8;false;false;false;false;false;false;false;False;Statt anzugreifen entscheide: Feuerrune: Fügt seinem F. 1 +W6 S. zu. Frostrune: Wenn dein Feind weniger als 2 Ini hat friere ihn für 1 Runde ein. ;0
+Samuel;Mensch;Dieb;Suderland/Trion;8;7;1;10;false;false;true;false;false;false;false;False;Doppelangriff „Ein Windzug und ein Mann schwang sich über die Stadtmauer. Von meinem Geldbeutel ... keineSpur.“AngriffaufLeet;1
+Schamane;Mensch;Schamane;Suderland/Trion;1;1;0;6;false;false;false;false;false;false;false;False;Verwandelt sich in einen W10: 1-3 Wolf(3/3) 4-6 großen Wolf(5/5) 8-10 großen Bären(7/7);4
+Schemenhafter Samuel;Mensch;Dieb;Suderland/Trion;12;12;3;12;false;false;false;false;false;false;false;False;Dreifachangriff Erhält +1/+1 wenn er angreift. „Die Stille vor dem Sturm und im nächsten Moment war es entschieden.“;1
+Schlangengott;älteres Wesen;Legende;Dschungel;15;3;3;35;false;false;false;true;false;false;false;False;;1
+Schmied;Mensch;Arbeiter;Suderland/Trion;2;0;1;3;false;false;false;false;false;false;false;False;Hat die Chance von 20% nach jedem Abenteuer ein Schwert oder eine Rüstung herzustellen (Der Spieler entscheidet).;2
+Selesh;Vampir;Legende;Zorak;14;3;2;30;false;false;false;true;false;false;false;False;Jede 2te Runde beißt Selesh einen feindlichen Charakter(S.Angriff) und heilt sich um die verlorenen TP dessen. „grausameSchönheit“;1
+Shalia;Elb;Abenteurer;Dunkler Kontinent;6;3;1;11;false;false;true;false;false;false;false;False;Gibt allen anderen befreundeten Abenteurern +3/+3. Startet mit einem geschwungenen Elbenschwert.;1
+Shani;Mensch;Zauberer;Wüste;2;2;0;6;false;false;true;false;false;false;false;False;Statt anzugreifen würfel einen W10: Shani verursacht W10: magischen Sch. Verleiht einem zufälligen Charakter +2 Initiative,+3 Angriff,+5 Leben ;1
+Shared;Mensch;Meister;Dunkler Kontinent;10;4;1;15;true;false;true;false;false;false;false;False;Erhält +2/+2 pro Runde. Wenn Shared unter 7TP fällt, erhält er 3R für diesenKampf.;1
+Skeld;Mensch;Abenteurer;Suderland/Trion;9;3;2;12;true;true;true;false;false;false;false;False;Immer wenn du zum ersten Mal eine 1 würfelst wiederhole Würfelwurf. Startet einen Kampf mit W10: 1 Fehlschlag 2-9 Ring 10 freie Wahl;1
+Soldat;Mensch;Krieger;Suderland/Trion;3;1;1;5;false;false;false;false;false;true;false;False;Mehr Soldaten– mehr Schlachten,Jemehr desto besser?;7
+Späher;Mensch;Späher;Dunkler Kontinent;4;3;0;6;false;false;false;false;false;false;false;False;Schau dir deine erste Abenteuerkarte an. Entscheide Abenteuerkarte durchzuspielen oder eine neue ziehen.;3
+Stealus;Mensch;Dieb;Suderland/Trion;7;4;1;10;false;false;true;false;false;false;false;False;Würfle vor jedem Kampf einen W10:1-8 Stealus geht auf Kräutersuche, Kämpfe ohne ihn, dein Team erhält -1/-1 9-10 StealuserhältfürjedenC.+1/+1.;1
+Suderland Ritter;Mensch;Krieger;Suderland/Trion;6;0;1;8;false;false;false;false;false;false;false;False;Trägt eine Plattenrüstung (+3 Rüstung). „Das Ende der Korruption ist gekommen.“;2
+Sylvaril;Elb;Waldläufer;Dschungel;8;3;1;11;false;false;true;false;false;false;false;False;Erhält +1 Ini für jeden Elben in deinem Team und -1 Ini für jeden Zwerg. Erhält +2/+2 für diesen Kampf für jeden Zwerg der besiegt wurde.;1
+Tarn;Mensch;Ringer;Wüste;5;3;1;11;false;false;true;false;false;false;false;False;Ignoriert die feindliche Rüstung und fügt dem Gegner seinen Rüstungswert als zusätzlichen Schaden zu. „Der Aufprall war härter“;1
+Ulutrix;Mensch;Zauberer;Suderland/Trion;4;2;0;10;false;false;true;false;false;false;false;False;Statt anzugreifen Wähle: Feuervogel auf 1nen seiner Gegner zufliegen lassen W10+Angriff Schaden über allen Gegnern W6-1+Angriff/2S.;1
+Unbekannter Jäger;Mensch;Abenteurer;Zorak;-1;-1;1;-1;true;false;false;false;false;false;false;False;„Nicht nur der Name wurde vergessen.“ Würfel einen W10 für den Angriff, einen W6 für die Initiative und W10 +W6 für seine TP. 1 Kampf mit nur 50% der TP.;2
+Untergrund Zauberin;Mensch;Hexe;Suderland/Trion;1;1;1;5;false;false;false;false;false;false;false;False;Entscheide zu Beginn des Kampfes: Fügt allen Gegnern 1 mag Schaden zu. oder fügt einem Gegner 5 mag. Sch. zu. Statt anzugreifen W10 mag Schaden.;2
+vamp. Abscheulichkeit;Vampir;Berserker;Zorak;11;2;3;24;false;false;false;true;false;false;false;False;Erhält +5 im Angriff,wenn unter 50% Tp heilt 4 pro Runde.;2
+Vampiradeliger;Vampir;Adeliger;Zorak;4;1;1;7;false;false;false;true;false;false;false;False;Erzeugt 10GF proRunde. Regeneriert 1 TP pro Runde.;1
+Vampirhauptmann;Vampir;Krieger;Zorak;5;2;2;9;false;false;false;true;false;false;false;False;Verleiht allen Vampiren +2/+2.;1
+Vampirhydra;Hydra;Berserker;Zorak;14;1;1;33;false;false;false;true;false;false;false;False;Doppelangriff. Erhält W10 Tp wenn sie einen Charakter tötet.;2
+Vampirjäger;Vampir;Krieger;Zorak;6;1;2;9;false;false;false;false;false;false;false;False;Trägt ein versilbertes Schwert das den Schaden gegen Vampire verdoppelt.;2
+Vampirkrieger;Vampir;Krieger;Zorak;5;1;2;9;false;false;false;true;false;false;false;False;;2
+Vampirsöldner;Vampir;Schamane;Zorak;5;2;1;8;false;false;false;true;false;false;false;False;;2
+Verdächtige Hexe;Mensch;Hexe;Suderland/Trion;2;1;0;6;false;false;false;false;false;false;false;False;Solange sich die Hexe und Samuel auf dem Spielfeld befinden erhält dieser +6/+6 und kann nicht sterben.;1
+verdeckte Instruktorin;Mensch;Abenteurer;Wüste;4;2;1;6;false;false;false;false;false;false;false;False;Würfel vor jedem Kampf einen W10:1-9DieseWeltistvollerVersager…10NimmdireineUpgrade-karte.„AlleWegeführenzumdunklenKontinent“;1
+Veteran;Mensch;Krieger;Suderland/Trion;4;1;1;6;false;false;false;false;false;false;false;False;Würfel nach jedem Kampf einen W10: 1-6 Früher in den guten alten Zeiten… 7-10 Verleihe einem anderen Krieger permanent +1/+1.;2
+Vigolfyr;Mensch;Duellant;Eisland;10;2;1;12;false;false;true;false;false;false;false;False;Fehde: Wähle vor jedem Kampf einen f. Cha. Wenn Vigolfyr diesem gegenüber steht erhält dieser -3/-2. Wenn dieser besiegt wird erhält V. +1/+2 permanent.;1
+Villendyr;Mensch;Paladin;Dunkler Kontinent;10;3;3;16;false;false;true;false;false;false;false;False;Verursacht +5 Feuerschaden, Immun gegen Feuermagie und kann nicht gestunnt werden. Regeneriert 3 Tp pro Runde. ;1
+Vlad;Vampir;Legende;Zorak;16;3;4;35;false;false;false;true;false;false;false;False;Jede 2te Runde pfählt Vlad zusätzlich einen feindlichen Charakter für 3xW10 Schaden - Rüstung. „schöneGrausamkeit“;1
+Vohna;Mensch;Späher;Dunkler Kontinent;5;5;1;7;true;false;true;false;false;false;false;False;Decke diese Karte vor einem Kampf auf. Dein Gegner wählt die Reihenfolge seiner Grp. offen aus und dann kannst du deine beliebig platzieren.;1
+wahrer Assassine;Mensch;Dieb;Wüste;7;4;0;7;false;false;false;false;false;false;false;False;Wenn der wahre Assassine einem Dieb gegenüber steht gibt er diesem -5 auf seine Initiative.;3
+Waldläufer;Mensch;Waldläufer;Suderland/Trion;4;2;1;4;false;false;false;false;false;false;false;False;Ein Mann der Natur, geübt mit Waffen und kann gut mit Tieren.Hätte er nur einen Begleiter.;4
+Walküre;Walküre;Krieger;Eisland;10;4;1;14;false;false;false;false;false;false;false;False;Gibt allen Wikingern +5/+5 und wenn sie zum ersten Mal sterben kommen sie mit 50% (abgerundet) zurück.;2
+Wandernder Duellant;Mensch;Duellant;Suderland/Trion;5;2;0;6;false;false;false;false;false;false;false;False;;2
+Werwolf;Werwolf;Berserker;Zorak;9;2;1;13;false;false;false;true;false;false;false;False;;2
+Whutrig;Zwerg;Berserker;Eisland;9;0;1;13;false;false;true;false;false;false;false;False;Erhält +3/0 wenn er als Zweiter angreift.;1
+Wikingerberserker;Mensch;Berserker;Eisland;8;2;1;12;false;false;false;false;false;false;false;False;Erhält +4/-1 wenn er angreift. „Einmal im Rausch gibt es nur eine Richtung Vorwärts.“;1
+Wikingerkrieger;Mensch;Krieger;Eisland;6;2;1;10;false;false;false;false;false;false;false;False;„Über die Menschen kann man folgendes sagen, sie sind von größerer Gestalt und sehr zäh. Sie trinken Unmenge von Bier wie die Zwerge. “Bergmann aus Trion;1
+Wikingermedizinmann;Mensch;Schamane;Eisland;2;0;0;8;false;false;false;false;false;false;false;False;Statt anzugreifen heilt der Wikingermedizinmann alle befreundeten Charaktere um 4TP.;3
+Wüstenchampion;Mensch;Krieger;Wüste;10;1;2;11;false;false;false;true;false;false;false;False;In der Wüste verringerter den Schaden eines Gegners um 2.;1
+Wüstenkrieger;Mensch;Krieger;Wüste;6;0;1;5;false;false;false;false;false;true;false;False;Erhält +1/+1 für jeden Sklaven den du besitzt. „Der kann noch arbeiten , ...“;4
+Zauberer;Mensch;Zauberer;Suderland/Trion;1;1;0;6;false;false;false;false;false;false;false;False;Statt anzugreifen wähle: Feuerball: W10 Schaden an einem Feind. Feuersturm: W6-2 Schaden an allen Gegnern.;4
+Zeirad;Mensch;Duellant;Suderland/Trion;7;2;1;9;true;true;true;false;false;false;false;False;Verursacht 2x Schaden gegen Vampire Wenn Zeirad Schaden erhält W10: 1-6 Fehlschlag 7-10 Zeirad verursacht zu. 5 Schaden;1
+Ziam;Mensch;Kampfmönch;Suderland/Trion;6;2;1;12;false;true;true;false;false;false;false;False;Hat30%Chance bei einem Angriff einmal zusätzlich anzugreifen. Ignoriert 1 Rüstung.;1
+Zurgha;Ork;Legende;Suderland/Trion;12;1;3;25;false;false;false;true;false;false;false;False;Doppelangriff;1
+Zwergenwirt;Zwerg;Kaufmann;Suderland/Trion;3;1;0;7;false;false;false;false;false;false;false;False;Jedes mal wenn ein Zwerg angreift erhalte ein Zwergenbier(kann für 3GF verkauft werden);1
+zwielichtiger Zauberer;Mensch;Nekromant;Suderland/Trion;2;0;0;6;false;false;false;false;false;false;false;False;Statt anzugreifen wird ein 5/3. Skelett beschworen (rechts) das dann sofort angreift. Trägt eine Robe (+1 Rüstung).;2
